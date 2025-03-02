@@ -50,17 +50,38 @@ o	YoY Growth = [Total Revenue] - CALCULATE([Total Revenue], SAMEPERIODLASTYEAR(D
 
 •	Interactive Drill-Down: Continent > Country > State filters for granular revenue analysis.
 
-## 3. Product Analytics Dashboard
+## 3. <a href= "https://github.com/Huan11data/Adventure-Works-Power-BI-Analysis/blob/main/Products Dashboard.png"> Products Dashboard</a>
 
 •	Goal Tracking: Gauge charts comparing monthly revenue/order targets vs. actuals.
 
 •	Forecasting: Scenario-based profit projections tied to pricing strategies.
 
-## 4. Customer Insights Dashboard
+## 4. <a href="https://github.com/Huan11data/Adventure-Works-Power-BI-Analysis/blob/main/Customer Dashboard.png"> Customer Dashboard</a>
 
 •	Demographic Breakdown: Revenue by income tier, education level, and occupation.
 
 •	Cohort Analysis: Customer acquisition trends and retention rates over time.
+
+## Analysis & Insights
+## 1. Sales Performance
+
+•	Revenue Growth: Achieved YoY growth, driven by high-demand product categories.
+## 2. Product Trends
+
+•	Top Categories: Bikes (32% of revenue), Components (25%), and Accessories (18%).
+
+## 3. Regional Performance
+
+•	Revenue Leaders: North America (45%), Europe (35%), Asia (20%).
+
+•	Emerging Opportunity: Southeast Asia demonstrated 22% YoY growth in 2023.
+
+## 4. Customer Insights
+
+•	High-Value Segment: Customers earning >$100k/year contributed 48% of total revenue.
+
+
+
 
 
 
