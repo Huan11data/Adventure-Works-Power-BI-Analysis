@@ -38,7 +38,7 @@ o	Return Rate = DIVIDE([Total Returns], [Total Orders])
 o	YoY Growth = [Total Revenue] - CALCULATE([Total Revenue], SAMEPERIODLASTYEAR(Date[Date]))
 
 ## Dashboard Highlights  
-## 1. Executive Dashboard:
+## 1. <a href="https://github.com/Huan11data/Adventure-Works-Power-BI-Analysis/blob/main/Executive Dashboard.png">Executive Dashboard</a>
    
 •	KPIs: Revenue, Profit, Total Orders, Return Rate.
 
@@ -46,7 +46,7 @@ o	YoY Growth = [Total Revenue] - CALCULATE([Total Revenue], SAMEPERIODLASTYEAR(D
 
 •	Product Performance: Matrix table ranking top SKUs by sales volume, profit margin, and return rate.
 
-## 2. Geographic Sales Map
+## 2. <a href= "https://github.com/Huan11data/Adventure-Works-Power-BI-Analysis/blob/main/Regional Map.png"> Regional Map</a>
 
 •	Interactive Drill-Down: Continent > Country > State filters for granular revenue analysis.
 
@@ -61,6 +61,7 @@ o	YoY Growth = [Total Revenue] - CALCULATE([Total Revenue], SAMEPERIODLASTYEAR(D
 •	Demographic Breakdown: Revenue by income tier, education level, and occupation.
 
 •	Cohort Analysis: Customer acquisition trends and retention rates over time.
+
 
 
 
