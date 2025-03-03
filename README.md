@@ -79,6 +79,16 @@ o	YoY Growth = [Total Revenue] - CALCULATE([Total Revenue], SAMEPERIODLASTYEAR(D
 ## 4. Customer Insights
 
 •	High-Value Segment: Customers earning >$100k/year contributed 48% of total revenue.
+## Strategic Recommendations
+## 1.	Inventory Optimization
+Discontinue underperforming SKUs and prioritize stock for high-margin categories (Bikes, Components).
+## 2.	Customer Retention
+Launch loyalty programs targeting high-income professionals.
+## 3.	Regional Expansion
+Allocate marketing resources to capitalize on Southeast Asia’s growth trajectory.
+## 4.	Return Mitigation
+Investigate quality issues in Electronics returns and implement supplier audits.
+
 
 
 
